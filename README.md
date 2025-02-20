@@ -6,11 +6,11 @@
 
 ## Preview:
 
-![screenshot](./src/assets/images/previews/preview1.png)
+![screenshot](./public/images/previews/preview1.png)
 
-![screenshot](./src/assets/images/previews/preview2.png)
+![screenshot](./public/images/previews/preview2.png)
 
-![screenshot](./src/assets/images/previews/preview3.png)
+![screenshot](./public/images/previews/preview3.png)
 
 ## Built With
 
