@@ -55,7 +55,7 @@ export const Footer: React.FC = () => {
           </div>
         </div>
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-          <p>&copy; 2025 ModernShop. All rights reserved.</p>
+          <p>&copy; 2025 Trendify. All rights reserved <a href="https://thecodechaser.com" className="text-blue-500 hover:text-blue-600">thecodechaser.com</a>.</p>
         </div>
       </div>
     </footer>
