@@ -26,7 +26,7 @@
 
 ## Live version
 
-[Trendify](https://trendify-codechaser.netlify.app/)
+[Trendify](https://trendify.thecodechaser.com)
 
 ## Getting Started
 
